@@ -1,0 +1,11 @@
+{
+  "name": "super-bot",
+  "version": "1.0.0",
+  "description": "Discord bot for consistency",
+  "main": "bot.js",
+  "author": "Mohammed Jasam",
+  "dependencies": {
+    "discord.io": "^2.5.3",
+    "winston": "^2.4.0"
+  }
+}
